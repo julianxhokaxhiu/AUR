@@ -1,6 +1,6 @@
 pkgbase = antibody-bin
 	pkgdesc = Antibody is a shell plugin manager made from the ground up thinking about performance
-	pkgver = 4.2.0
+	pkgver = 6.0.1
 	pkgrel = 1
 	url = https://github.com/getantibody/antibody
 	arch = i686
@@ -10,16 +10,16 @@ pkgbase = antibody-bin
 	arch = aarch64
 	license = MIT
 	conflicts = antibody
-	source_i686 = antibody-bin-4.2.0.tar.gz::https://github.com/getantibody/antibody/releases/download/v4.2.0/antibody_Linux_i386.tar.gz
-	sha256sums_i686 = 148ea5224d35361364e81be7fffd30de22502145c3d9d0bff54aa55029c7bef5
-	source_x86_64 = antibody-bin-4.2.0.tar.gz::https://github.com/getantibody/antibody/releases/download/v4.2.0/antibody_Linux_x86_64.tar.gz
-	sha256sums_x86_64 = 135827f8973d9716f7861221ec47b6b4f9a9c14b9ce7df62d2d71487fee15d5b
-	source_armv6h = antibody-bin-4.2.0.tar.gz::https://github.com/getantibody/antibody/releases/download/v4.2.0/antibody_Linux_armv6.tar.gz
-	sha256sums_armv6h = 55dba88d26763291f70f7fb44b34dd0c7a278243eaa57b45de20490a699f095e
-	source_armv7h = antibody-bin-4.2.0.tar.gz::https://github.com/getantibody/antibody/releases/download/v4.2.0/antibody_Linux_armv7.tar.gz
-	sha256sums_armv7h = 5360ee6c49167f0391e20f25a31776d947819342080a5075be7a5db054ee78d4
-	source_aarch64 = antibody-bin-4.2.0.tar.gz::https://github.com/getantibody/antibody/releases/download/v4.2.0/antibody_Linux_arm64.tar.gz
-	sha256sums_aarch64 = ea618d1712995e0b3e8b6e561688b1715f5be81e8d3b4c0384d246f09f189e54
+	source_i686 = antibody-bin-6.0.1.tar.gz::https://github.com/getantibody/antibody/releases/download/v6.0.1/antibody_Linux_i386.tar.gz
+	sha256sums_i686 = 7b5f91e6c7c04cb6764cd21aa6905afe5d8c9f463cdb135a9d1e4ab5e8a49e9c
+	source_x86_64 = antibody-bin-6.0.1.tar.gz::https://github.com/getantibody/antibody/releases/download/v6.0.1/antibody_Linux_x86_64.tar.gz
+	sha256sums_x86_64 = 4a4dbe96aaa098b40488087a51cd8ee29ded8e0f4400520126fe8616c48ac0c5
+	source_armv6h = antibody-bin-6.0.1.tar.gz::https://github.com/getantibody/antibody/releases/download/v6.0.1/antibody_Linux_armv6.tar.gz
+	sha256sums_armv6h = 96e9ca5e184cb6647ef121c9339644d58182d5eed4e74762b73d801cc19ecd8a
+	source_armv7h = antibody-bin-6.0.1.tar.gz::https://github.com/getantibody/antibody/releases/download/v6.0.1/antibody_Linux_armv7.tar.gz
+	sha256sums_armv7h = 674d387a7819b3558c209c54e0b22c36d455a07b52585ffa26c82075fafd3b34
+	source_aarch64 = antibody-bin-6.0.1.tar.gz::https://github.com/getantibody/antibody/releases/download/v6.0.1/antibody_Linux_arm64.tar.gz
+	sha256sums_aarch64 = 9a3824d02598bfada2627c5840f0bd03653aad17f71ceff3c5341c2bff65b1f2
 
 pkgname = antibody-bin
 
